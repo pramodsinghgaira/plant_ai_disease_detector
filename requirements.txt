@@ -1,5 +1,8 @@
 streamlit
-transformers
 torch
 torchvision
-pillow
+Pillow
+numpy
+transformers
+huggingface_hub
+reportlab
